@@ -15,6 +15,6 @@ Any links you will find below.
 -[Zoom recording]() <br>
 -password: <br>
 -[Professional Resource Guide]() <br>
--[Udemy]() <br>
--[https://www.codecademy.com/]() <br>
+-[Udemy](https://www.udemy.com/) <br>
+-[Codecademy](https://www.codecademy.com/) <br>
 
