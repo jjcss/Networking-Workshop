@@ -13,7 +13,7 @@ Any links you will find below.
 
 -[Presentation slides](https://docs.google.com/presentation/d/1bnF9J5w7rTAVfQTNo0x7q-d92B4V_mxaErdVeMhAWG8/edit?usp=sharing) <br>
 -[Zoom recording]() <br>
-password: <br>
+-password: <br>
 -[Professional Resource Guide]() <br>
 -[Udemy]() <br>
 -[https://www.codecademy.com/]() <br>
