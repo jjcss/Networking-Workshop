@@ -7,7 +7,7 @@ First off, we want to say thank you for joining us on this day. We appreciate yo
 
 ## Coming Here after the workshop
 
-Any links you will find below.
+Any links you will find below. And, a bulk of all links and information will be found in the presentation link.
 
 ## Resources from the Workshop
 
