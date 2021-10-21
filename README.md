@@ -12,8 +12,8 @@ Any links you will find below. And, a bulk of all links and information will be 
 ## Resources from the Workshop
 
 -[Presentation slides](https://docs.google.com/presentation/d/1bnF9J5w7rTAVfQTNo0x7q-d92B4V_mxaErdVeMhAWG8/edit?usp=sharing) <br>
--[Zoom recording]() <br>
--password: <br>
+-[Zoom recording](https://jjay-cuny.zoom.us/rec/share/p9Javmo9kpvAb2_KGbgH7Qd7fmb43hS1TlMVAE2bBuYnmibX8PzmGfYL8KKFMKPI.zYNqwv4W41NparH4) <br>
+-password: 9mb*Cm9+ <br>
 -[Professional Resource Guide](https://docs.google.com/document/d/19O7NatuPSWLcFuuj0jERadZkXnk-cS10cTqaXjZQl7Q/edit) <br>
 -[Udemy](https://www.udemy.com/) <br>
 -[Codecademy](https://www.codecademy.com/) <br>
