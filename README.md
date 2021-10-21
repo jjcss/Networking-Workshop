@@ -11,6 +11,6 @@ Any links you will find below.
 
 ## Resources from the Workshop
 
--[Presentation slides](https://docs.google.com/presentation/d/1bnF9J5w7rTAVfQTNo0x7q-d92B4V_mxaErdVeMhAWG8/edit?usp=sharing)
+-[Presentation slides](https://docs.google.com/presentation/d/1bnF9J5w7rTAVfQTNo0x7q-d92B4V_mxaErdVeMhAWG8/edit?usp=sharing) <br>
 -[Zoom recording]()
 
