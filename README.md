@@ -14,7 +14,7 @@ Any links you will find below. And, a bulk of all links and information will be 
 -[Presentation slides](https://docs.google.com/presentation/d/1bnF9J5w7rTAVfQTNo0x7q-d92B4V_mxaErdVeMhAWG8/edit?usp=sharing) <br>
 -[Zoom recording]() <br>
 -password: <br>
--[Professional Resource Guide]() <br>
+-[Professional Resource Guide](https://docs.google.com/document/d/19O7NatuPSWLcFuuj0jERadZkXnk-cS10cTqaXjZQl7Q/edit) <br>
 -[Udemy](https://www.udemy.com/) <br>
 -[Codecademy](https://www.codecademy.com/) <br>
 
